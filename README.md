@@ -1,4 +1,4 @@
-# Pattern
+# Pyramid
 #include<stdio.h>
 
 int main()
